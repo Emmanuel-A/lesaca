@@ -1,0 +1,39 @@
+<div class="page-width">
+    {% for block in section.blocks %}
+        <div class="grid_product">
+           <a href="{{ block.settings.productLink }}">
+            <span class="trigger_hover"></span>
+            <img src="{{ block.settings.imageFront | img_url: '2800x2800' }}" class="product_image front_image">
+            <img src="{{ block.settings.imageBack | img_url: '2800x2800' }}" class="product_image back_image">
+           </a>
+        </div>
+    {% endfor %}
+</div>
+{% schema %}
+{
+  "name": "Products",
+  "blocks": [
+    {
+      "name": "product",  
+      "type": "productLinks",
+      "settings": [
+        {
+          "id": "imageFront",
+          "type": "image_picker",
+          "label": "Product Image Front"
+        },
+         {
+          "id": "imageBack",
+          "type": "image_picker",
+          "label": "Product Image Back"
+        },
+        {
+          "id": "productLink",
+          "type": "url",
+          "label": "Product Link"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

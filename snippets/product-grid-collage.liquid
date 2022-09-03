@@ -1,0 +1,16 @@
+
+<div class="grid__item collage-grid__row">
+  <div class="grid">
+    <div class="grid__item collage-grid__reverse--wrapper one-whole medium--one-third large--one-third">
+      <div class="grid">
+        {% include 'product-grid-item' %}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% comment %} {% if collection_product_count__product == 1 %}
+  {% include 'product-grid-item' %}
+{% else %}
+  {% include 'product-grid-item' %}
+{% endif %} {% endcomment %}

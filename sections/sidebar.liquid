@@ -1,0 +1,34 @@
+<div class="sidebar">
+    <ul>
+    {% for block in section.blocks %}
+        <li><a href="{{ block.settings.pageLink }}" class="{% if page.url contains block.settings.pageLink %}active{% endif %}">{{ block.settings.page }}</a></li>
+    {% endfor %}
+    </ul>
+</div>
+
+
+
+{% schema %}
+{
+  "name": "Sidebar Navigation Links",
+  "class": "sidebar",
+  "blocks": [
+    {
+      "type": "sidebarLinks",
+      "name": "Page Links",
+      "settings": [
+        {
+          "label": "Page URL",
+          "id": "pageLink",
+          "type": "url"
+        },
+        {
+          "label": "Page Name",
+          "id": "page",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
