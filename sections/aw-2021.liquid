@@ -253,56 +253,45 @@
 </script>
   
 
+
+
+
 {% schema %}
 {
-    "name": "Media",
-    "blocks": [
+  "name": "Media",
+  "blocks": [
+    {
+      "type": "sidebarLinks",
+      "name": "Media Carousel",
+      "settings": [
         {
-            "name": "Image Button",  
-            "type": "button",
-            "settings": [
-                {
-                    "id": "imageBtn",
-                    "type": "image_picker",
-                    "label": "Image"
-                },
-                {
-                    "id": "link",
-                    "type": "url",
-                    "label": "Link"
-                }
-            ]
+          "id": "imageBtn",
+          "type": "image_picker",
+          "label": "Image"
         },
         {
-            "name": "Image",  
-            "type": "image",
-            "settings": [
-                {
-                    "id": "image",
-                    "type": "image_picker",
-                    "label": "Image"
-                }
-            ]
+          "id": "link",
+          "type": "url",
+          "label": "Link"
         },
         {
-            "name": "Video",  
-            "type": "video",
-            "settings": [
-                {
-                    "id": "link",
-                    "type": "url",
-                    "label": "Video Link"
-                }
-            ]
+          "id": "image",
+          "type": "image_picker",
+          "label": "Image"
+        },
+        {
+          "id": "videoLink",
+          "type": "url",
+          "label": "Video Link"
         }
-    ],
-    "presets": [
-            {
-            "category": "Campaign",
-            "name": "Media",
-            "settings": {
-            }
-        }
-    ]
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "category": "Campaign",
+      "name": "Media"
+    }
+  ]
 }
 {% endschema %}
