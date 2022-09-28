@@ -386,19 +386,11 @@
               "pageLink": "shopify:\/\/pages\/aw21-campaign",
               "page": "2021 Autumn Winter"
             }
-          },
-          "fdf10664-86c8-49ca-bed8-f654ab63ce86": {
-            "type": "sidebarLinks",
-            "settings": {
-              "pageLink": "",
-              "page": "2022 Autumn Winter"
-            }
           }
         },
         "block_order": [
           "f45b3a35-ef02-4c3a-a3d9-474f3ef80e1e",
-          "51db50f5-c2e0-43eb-b54f-faaf80076013",
-          "fdf10664-86c8-49ca-bed8-f654ab63ce86"
+          "51db50f5-c2e0-43eb-b54f-faaf80076013"
         ],
         "settings": {
         }
