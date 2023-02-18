@@ -105,49 +105,49 @@
 
 
 <div class="page-width">
-  {% comment %} {% for block in section.blocks %}
-      {% if block.type == 'image' %}
-      <div class="zoomElement">
-          <img src="{{ block.settings.image | img_url: '2800x2800' }}" onclick="openModal();currentSlide(1)" class="product_image">
-      </div>
-      {% endif %}
-  {% endfor %} {% endcomment %}
+    {% comment %} {% for block in section.blocks %}
+        {% if block.type == 'image' %}
+        <div class="zoomElement">
+            <img src="{{ block.settings.image | img_url: '2800x2800' }}" onclick="openModal();currentSlide(1)" class="product_image">
+        </div>
+        {% endif %}
+    {% endfor %} {% endcomment %}
 
-  <div id="myModal" class="modal">
-      <span class="close cursor">{% include 'close' %}</span>
-      <div class="modal-content">
-      {% for block in section.blocks %}
-          {% if block.type == 'image' %}
-          <div class="mySlides">
-              <img src="{{ block.settings.image | img_url: '2800x2800' }}" class="product_image">
-          </div>
-          {% endif %}
-      {% endfor %}
+    <div id="myModal" class="modal">
+        <span class="close cursor">{% include 'close' %}</span>
+        <div class="modal-content">
+        {% for block in section.blocks %}
+            {% if block.type == 'image' %}
+            <div class="mySlides">
+                <img src="{{ block.settings.image | img_url: '2800x2800' }}" class="product_image">
+            </div>
+            {% endif %}
+        {% endfor %}
 
-      {% comment %} <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a> {% endcomment %}
-      </div>
-  </div>
+        {% comment %} <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a> {% endcomment %}
+        </div>
+    </div>
 
-  {% for block in section.blocks %}
-    {% if block.type == 'image' %}
-      <div class="grid_product zoomElement" class="product_image">
-          <img src="{{ block.settings.image | img_url: '2800x2800' }}" class="product_image">
-      </div>
-    {% endif %}
-    {% if block.type == 'button' %}
-      <div class="grid_product" class="product_image">
-        <a href="{{ block.settings.link }}">
-            <img src="{{ block.settings.imageBtn | img_url: '2800x2800' }}">
-        </a>
-      </div>
-    {% endif %}
-    {% if block.type == 'video' %}
-      <video class="product_video" width="100%" height="auto" autoplay="" playsinline="" loop="" muted="">
-        <source src="{{ block.settings.link }}" type="video/mp4"> 
-      </video> 
-    {% endif %}
-  {% endfor %}
+    {% for block in section.blocks %}
+        {% if block.type == 'image' %}
+            <div class="grid_product zoomElement" class="product_image">
+                <img src="{{ block.settings.image | img_url: '2800x2800' }}" class="product_image">
+            </div>
+        {% endif %}
+        {% if block.type == 'button' %}
+            <div class="grid_product" class="product_image">
+                <a href="{{ block.settings.link }}">
+                    <img src="{{ block.settings.imageBtn | img_url: '2800x2800' }}">
+                </a>
+            </div>
+        {% endif %}
+        {% if block.type == 'video' %}
+            <video class="product_video" width="100%" height="auto" autoplay="" playsinline="" loop="" muted="">
+                <source src="{{ block.settings.link }}" type="video/mp4"> 
+            </video> 
+        {% endif %}
+    {% endfor %}
 </div>
 
 <script>
@@ -208,7 +208,7 @@
 
 {% schema %}
 {
-    "name": "Media Row One",
+    "name": "Media Row Two",
     "blocks": [
         {
             "name": "Image Button",  
