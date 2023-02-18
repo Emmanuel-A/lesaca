@@ -373,11 +373,11 @@
       "projects-sidebar": {
         "type": "projects-sidebar",
         "blocks": {
-          "f45b3a35-ef02-4c3a-a3d9-474f3ef80e1e": {
+          "7b7ef08e-55cc-415d-9629-9aad9bcb722b": {
             "type": "sidebarLinks",
             "settings": {
-              "pageLink": "shopify:\/\/pages\/ss21-lookbook",
-              "page": "2021 Spring Summer"
+              "pageLink": "shopify:\/\/pages\/fw23-campaign",
+              "page": "2023 Fall Winter"
             }
           },
           "51db50f5-c2e0-43eb-b54f-faaf80076013": {
@@ -387,18 +387,18 @@
               "page": "2021 Fall Winter"
             }
           },
-          "7b7ef08e-55cc-415d-9629-9aad9bcb722b": {
+          "f45b3a35-ef02-4c3a-a3d9-474f3ef80e1e": {
             "type": "sidebarLinks",
             "settings": {
-              "pageLink": "shopify:\/\/pages\/fw23-campaign",
-              "page": "2023 Fall Winter"
+              "pageLink": "shopify:\/\/pages\/ss21-lookbook",
+              "page": "2021 Spring Summer"
             }
           }
         },
         "block_order": [
-          "f45b3a35-ef02-4c3a-a3d9-474f3ef80e1e",
+          "7b7ef08e-55cc-415d-9629-9aad9bcb722b",
           "51db50f5-c2e0-43eb-b54f-faaf80076013",
-          "7b7ef08e-55cc-415d-9629-9aad9bcb722b"
+          "f45b3a35-ef02-4c3a-a3d9-474f3ef80e1e"
         ],
         "settings": {
         }
