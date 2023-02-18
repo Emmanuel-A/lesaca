@@ -4058,13 +4058,14 @@ $(document).ready(function() {
 
   $('.page-container').on('click', function(e) { 
     var target = $( e.target );
-    if (target.is( ".mobile_dropdown" )) {
+    if ((target.is( ".mobile_dropdown" )) || (target.is( ".mobile_overlay" )) || (target.is( ".mobile_header" )) || (target.is( ".mobile_header .row" ))) {
       $('.close_btn').hide();
       $('.open_btn').show();
       $('.mobile_dropdown').removeClass('visible');
       $('.mobile_overlay').hide();
       $('body').removeClass('lockScroll');
     }
+    
     // if (target.not( ".mobile_dropdown .row .col" )) {
     //   $('.close_btn').hide();
     //   $('.open_btn').show();

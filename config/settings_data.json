@@ -386,66 +386,22 @@
               "pageLink": "shopify:\/\/pages\/aw21-campaign",
               "page": "2021 Autumn Winter"
             }
-          },
-          "77a10c1b-e128-4c10-b58e-2e2c123f7d43": {
-            "type": "sidebarLinks",
-            "settings": {
-              "pageLink": "shopify:\/\/pages\/fw23-campaign",
-              "page": "2023 Fall Winter"
-            }
           }
         },
         "block_order": [
           "f45b3a35-ef02-4c3a-a3d9-474f3ef80e1e",
-          "51db50f5-c2e0-43eb-b54f-faaf80076013",
-          "77a10c1b-e128-4c10-b58e-2e2c123f7d43"
+          "51db50f5-c2e0-43eb-b54f-faaf80076013"
         ],
         "settings": {
         }
       },
       "aw-2021-campaign-row-one": {
         "type": "aw-2021-campaign-row-one",
-        "blocks": {
-          "08ec92c2-33b5-4195-b682-dd4c557af79e": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/websitelookbook_0023_1.jpg"
-            }
-          },
-          "ad68160e-7338-49f8-b9f6-1e8df515f961": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/websitelookbook_0020_4.jpg"
-            }
-          }
-        },
-        "block_order": [
-          "08ec92c2-33b5-4195-b682-dd4c557af79e",
-          "ad68160e-7338-49f8-b9f6-1e8df515f961"
-        ],
         "settings": {
         }
       },
       "aw-2021-campaign-row-two": {
         "type": "aw-2021-campaign-row-two",
-        "blocks": {
-          "9657ec1c-70f3-471c-8514-105a56caa4f3": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/aw21campaign_0006_Flash_2.jpg"
-            }
-          },
-          "b15feec3-00f7-4930-8589-74b7c8ec6b6d": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/aw21campaign_0007_Flash_1.jpg"
-            }
-          }
-        },
-        "block_order": [
-          "9657ec1c-70f3-471c-8514-105a56caa4f3",
-          "b15feec3-00f7-4930-8589-74b7c8ec6b6d"
-        ],
         "settings": {
         }
       }
