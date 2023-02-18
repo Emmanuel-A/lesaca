@@ -1589,6 +1589,136 @@ body {
             }
         }
     }
+    &#ss21-campaign {
+        .page-container {
+            #shopify-section-logo-bar {
+                .sidebar {
+                    background-color: #f4f4f4;
+                }
+            }
+            .main-content {
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                width: 92%;
+                right: 0;
+                position: absolute;
+                padding: 0;
+                @media screen and (max-width: 767px) {
+                    width: 100%;
+                }
+                .wrapper {
+                    max-width: 100%;
+                    padding: 0;
+                    margin: 0;
+                    height: 100vh;
+                    @media screen and (max-width: 767px) {
+                        height: auto;
+                    }
+                    #shopify-section-collection-images-row-one {
+                        padding: 0;
+                        margin: 0;
+                        height: 45vh;
+                        @media screen and (max-width: 767px) {
+                            height: auto;
+                            width: 50%;
+                            padding: 50px 20px 0 20px;
+                        }
+                        .page-width {
+                            width: 100%;
+                            height: 100%;
+                            overflow-x: scroll;
+                            overflow-y: hidden;
+                            scroll-behavior: smooth;
+                            white-space: nowrap;
+                            padding: 0;
+                            display: block;
+                            @media screen and (max-width: 767px) {
+                                height: auto;
+                            }
+                            .grid_product {
+                                display: inline-block;
+                                width: auto;
+                                height: 100%;
+                                margin: 5px;
+                                @media screen and (max-width: 767px) {
+                                    height: auto;
+                                    display: block;
+                                    margin: 0;
+                                }
+                                &:last-child {
+                                    margin-right: 0;
+                                }
+                                img {
+                                    height: 95%;
+                                    @media screen and (max-width: 767px) {
+                                        height: auto;
+                                    }
+                                }
+                                video {
+                                    object-fit: cover;
+                                    height: 100%;
+                                    @media screen and (max-width: 1440px) {
+                                        width: 524px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    #shopify-section-collection-images-row-two {
+                        padding: 0;
+                        margin: 0;
+                        height: 45vh;
+                        @media screen and (max-width: 767px) {
+                            height: auto;
+                            width: 50%;
+                            padding: 50px 20px 0 20px;
+                        }
+                        .page-width {
+                            width: 100%;
+                            height: 100%;
+                            overflow-x: scroll;
+                            overflow-y: hidden;
+                            scroll-behavior: smooth;
+                            white-space: nowrap;
+                            padding: 0;
+                            display: block;
+                            @media screen and (max-width: 767px) {
+                                height: auto;
+                            }
+                            .grid_product {
+                                display: inline-block;
+                                width: auto;
+                                height: 100%;
+                                margin: 5px;
+                                @media screen and (max-width: 767px) {
+                                    height: auto;
+                                    display: block;
+                                    margin: 0;
+                                }
+                                &:last-child {
+                                    margin-right: 0;
+                                }
+                                img {
+                                    height: 95%;
+                                    @media screen and (max-width: 767px) {
+                                        height: auto;
+                                    }
+                                }
+                                video {
+                                    object-fit: cover;
+                                    height: 100%;
+                                    @media screen and (max-width: 1440px) {
+                                        width: 524px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
     &#fw21-lookbook {
         .page-container {
             #shopify-section-logo-bar {
