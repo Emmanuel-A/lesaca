@@ -679,6 +679,34 @@
         ],
         "settings": {
         }
+      },
+      "ss-2021-campaign-row-one": {
+        "type": "ss-2021-campaign-row-one",
+        "blocks": {
+          "38ca8864-09ab-4b35-9940-ef155c27e156": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1.jpg"
+            }
+          },
+          "a5541b42-c8d8-4cd3-8b93-8113a2143791": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "38ca8864-09ab-4b35-9940-ef155c27e156",
+          "a5541b42-c8d8-4cd3-8b93-8113a2143791"
+        ],
+        "settings": {
+        }
+      },
+      "ss-2021-campaign-row-two": {
+        "type": "ss-2021-campaign-row-two",
+        "settings": {
+        }
       }
     },
     "content_for_index": [
