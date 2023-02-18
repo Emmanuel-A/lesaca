@@ -384,13 +384,21 @@
             "type": "sidebarLinks",
             "settings": {
               "pageLink": "shopify:\/\/pages\/aw21-campaign",
-              "page": "2021 Autumn Winter"
+              "page": "2021 Fall Winter"
+            }
+          },
+          "7b7ef08e-55cc-415d-9629-9aad9bcb722b": {
+            "type": "sidebarLinks",
+            "settings": {
+              "pageLink": "shopify:\/\/pages\/fw23-campaign",
+              "page": "2023 Fall Winter"
             }
           }
         },
         "block_order": [
           "f45b3a35-ef02-4c3a-a3d9-474f3ef80e1e",
-          "51db50f5-c2e0-43eb-b54f-faaf80076013"
+          "51db50f5-c2e0-43eb-b54f-faaf80076013",
+          "7b7ef08e-55cc-415d-9629-9aad9bcb722b"
         ],
         "settings": {
         }
