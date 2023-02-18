@@ -113,12 +113,12 @@
     {% endfor %} {% endcomment %}
 
     <div id="myModal" class="modal">
-        <span class="close cursor" onclick="closeModal()">{% include 'close' %}</span>
+        <span class="close cursor">{% include 'close' %}</span>
         <div class="modal-content">
         {% for block in section.blocks %}
             {% if block.type == 'image' %}
-            <div class="mySlides" onclick="closeModal()">
-                <img src="{{ block.settings.image | img_url: '2800x2800' }}" onclick="openModal();currentSlide({{ forloop.index }})" class="product_image">
+            <div class="mySlides">
+                <img src="{{ block.settings.image | img_url: '2800x2800' }}" class="product_image">
             </div>
             {% endif %}
         {% endfor %}
@@ -130,7 +130,7 @@
 
     {% for block in section.blocks %}
         {% if block.type == 'image' %}
-            <div class="grid_product zoomElement" onclick="openModal();currentSlide({{ forloop.index }})" class="product_image">
+            <div class="grid_product zoomElement" class="product_image">
                 <img src="{{ block.settings.image | img_url: '2800x2800' }}" class="product_image">
             </div>
         {% endif %}
