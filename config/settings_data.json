@@ -441,6 +441,48 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/aw21campaign_0011_Blue_Dress_Landscape.jpg"
             }
+          },
+          "b58578ca-6f6c-48a3-9054-b06633560016": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0010_Chair_1.jpg"
+            }
+          },
+          "bfc56cab-3b0a-41a9-bbee-c6bde5e2a3b4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0008_Chair_3.jpg"
+            }
+          },
+          "73cadb66-225a-4a2a-b0da-d0b875525a1f": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0009_Chair_2.jpg"
+            }
+          },
+          "48872b6c-4ddc-4af9-bf0b-2ec561fc3cdd": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0004_Outside_1.jpg"
+            }
+          },
+          "99e3f015-40c5-48e9-9d69-26b6c6e51617": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0000_Outside_Rust_2.jpg"
+            }
+          },
+          "e9412047-0f47-4b75-a468-339670995cc8": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0003_Outside_3.jpg"
+            }
+          },
+          "3be80f6b-a002-4b3e-858a-2a792a8d8725": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0002_Outside_Landscape.jpg"
+            }
           }
         },
         "block_order": [
@@ -449,7 +491,14 @@
           "8b9493d4-9843-4ae9-ac02-ac394c41a7d3",
           "228316e7-040d-438e-a1a0-77967375726e",
           "43d6d3a0-7402-44fa-805c-505a035ade38",
-          "f7fca9e6-ffb6-4f72-9873-7954722fde44"
+          "f7fca9e6-ffb6-4f72-9873-7954722fde44",
+          "b58578ca-6f6c-48a3-9054-b06633560016",
+          "bfc56cab-3b0a-41a9-bbee-c6bde5e2a3b4",
+          "73cadb66-225a-4a2a-b0da-d0b875525a1f",
+          "48872b6c-4ddc-4af9-bf0b-2ec561fc3cdd",
+          "99e3f015-40c5-48e9-9d69-26b6c6e51617",
+          "e9412047-0f47-4b75-a468-339670995cc8",
+          "3be80f6b-a002-4b3e-858a-2a792a8d8725"
         ],
         "settings": {
         }
