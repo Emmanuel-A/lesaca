@@ -866,6 +866,16 @@
       },
       "fw-2023-campaign-row-two": {
         "type": "fw-2023-campaign-row-two",
+        "blocks": {
+          "6c8f07c4-2fe5-4710-a339-1edd07dcd9d8": {
+            "type": "image",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "6c8f07c4-2fe5-4710-a339-1edd07dcd9d8"
+        ],
         "settings": {
         }
       }
