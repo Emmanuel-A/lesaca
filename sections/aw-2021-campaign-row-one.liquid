@@ -106,43 +106,49 @@
 
 <div class="page-width">
   {% comment %} {% for block in section.blocks %}
-    {% if block.type == 'image' %}
+      {% if block.type == 'image' %}
       <div class="zoomElement">
-        <img src="{{ block.settings.image | img_url: '2800x2800' }}" onclick="openModal();currentSlide(1)" class="product_image">
+          <img src="{{ block.settings.image | img_url: '2800x2800' }}" onclick="openModal();currentSlide(1)" class="product_image">
       </div>
-    {% endif %}
+      {% endif %}
   {% endfor %} {% endcomment %}
 
   <div id="myModal" class="modal">
-    <span class="close cursor" onclick="closeModal()">{% include 'close' %}</span>
-    <div class="modal-content">
+      <span class="close cursor" onclick="closeModal()">{% include 'close' %}</span>
+      <div class="modal-content">
       {% for block in section.blocks %}
-        {% if block.type == 'image' %}
+          {% if block.type == 'image' %}
           <div class="mySlides" onclick="closeModal()">
-            <img src="{{ block.settings.image | img_url: '2800x2800' }}" onclick="openModal();currentSlide({{ forloop.index }})" class="product_image">
+              <img src="{{ block.settings.image | img_url: '2800x2800' }}" onclick="openModal();currentSlide({{ forloop.index }})" class="product_image">
           </div>
-        {% endif %}
+          {% endif %}
       {% endfor %}
 
       {% comment %} <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a> {% endcomment %}
-    </div>
+      </div>
   </div>
 
   {% for block in section.blocks %}
-    <div class="grid_product zoomElement" onclick="openModal();currentSlide({{ forloop.index }})" class="product_image">
-      {% if block.type == 'image' %}
-        <img src="{{ block.settings.image | img_url: '2800x2800' }}" class="product_image">
-      {% endif %}
-      {% if block.type == 'video' %}
-        <video class="product_video" width="100%" height="auto" autoplay="" playsinline="" loop="" muted="">
-          <source src="{{ block.settings.link }}" type="video/mp4"> 
-        </video> 
-      {% endif %}
-    </div>
+    {% if block.type == 'image' %}
+      <div class="grid_product zoomElement" onclick="openModal();currentSlide({{ forloop.index }})" class="product_image">
+          <img src="{{ block.settings.image | img_url: '2800x2800' }}" class="product_image">
+      </div>
+    {% endif %}
+    {% if block.type == 'button' %}
+      <div class="grid_product" class="product_image">
+        <a href="{{ block.settings.link }}">
+            <img src="{{ block.settings.imageBtn | img_url: '2800x2800' }}">
+        </a>
+      </div>
+    {% endif %}
+    {% if block.type == 'video' %}
+      <video class="product_video" width="100%" height="auto" autoplay="" playsinline="" loop="" muted="">
+        <source src="{{ block.settings.link }}" type="video/mp4"> 
+      </video> 
+    {% endif %}
   {% endfor %}
 </div>
-
 
 <script>
   if ($(window).width() >= 767) {
@@ -198,33 +204,58 @@
     };
   }
 </script>
+  
 
 {% schema %}
 {
-  "name": "Media",
-  "blocks": [
-    {
-      "name": "Image",  
-      "type": "image",
-      "settings": [
+    "name": "Media Row One",
+    "blocks": [
         {
-          "id": "image",
-          "type": "image_picker",
-          "label": "Image"
-        }
-      ]
-    },
-    {
-      "name": "Video",  
-      "type": "video",
-      "settings": [
+            "name": "Image Button",  
+            "type": "button",
+            "settings": [
+                {
+                    "id": "imageBtn",
+                    "type": "image_picker",
+                    "label": "Image"
+                },
+                {
+                    "id": "link",
+                    "type": "url",
+                    "label": "Link"
+                }
+            ]
+        },
         {
-          "id": "link",
-          "type": "url",
-          "label": "Video Link"
+            "name": "Image",  
+            "type": "image",
+            "settings": [
+                {
+                "id": "image",
+                "type": "image_picker",
+                "label": "Image"
+                }
+            ]
+        },
+        {
+            "name": "Video",  
+            "type": "video",
+            "settings": [
+                {
+                "id": "link",
+                "type": "url",
+                "label": "Video Link"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ],
+    "presets": [
+            {
+            "category": "Campaign",
+            "name": "Media",
+            "settings": {
+            }
+        }
+    ]
 }
 {% endschema %}
