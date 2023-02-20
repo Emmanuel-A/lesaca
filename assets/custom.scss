@@ -488,7 +488,6 @@ body {
                                     align-items: center;
                                     height: 100%;
                                     a {
-                                        pointer-events: none;
                                         video {
                                             height: auto;
                                             margin: 0;
@@ -551,6 +550,7 @@ body {
                             }
                             a {
                                 width: 100%;
+                                pointer-events: none;
                                 video {
                                     object-fit: cover;
                                     // max-height: 900px;
