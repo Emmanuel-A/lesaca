@@ -353,6 +353,20 @@
               "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0000_Coverall-Shirt.png",
               "productLink": "shopify:\/\/products\/wide-blouson"
             }
+          },
+          "9b20e74d-3120-4e3d-a64f-4b539592adb3": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/1000x2000-Store_0001_Skirt.png",
+              "imageBack": "shopify:\/\/shop_images\/1000x2000-Store_0001_Skirt.png",
+              "productLink": "shopify:\/\/products\/coverall-skirt"
+            }
+          },
+          "52e72720-4e39-41ab-ba0c-9f0fb89a7a01": {
+            "type": "productLinks",
+            "settings": {
+              "productLink": ""
+            }
           }
         },
         "block_order": [
@@ -365,7 +379,9 @@
           "806b3b45-4159-4fa8-ab79-4de783b259be",
           "57f2db20-c2ea-4c37-a61c-2442ef6eea69",
           "a25978ff-6fd5-48e0-913b-ee97607c4452",
-          "707d84a4-4763-42db-93ee-3365ffda7695"
+          "707d84a4-4763-42db-93ee-3365ffda7695",
+          "9b20e74d-3120-4e3d-a64f-4b539592adb3",
+          "52e72720-4e39-41ab-ba0c-9f0fb89a7a01"
         ],
         "settings": {
         }
