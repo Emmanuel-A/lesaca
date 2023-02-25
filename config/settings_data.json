@@ -297,12 +297,21 @@
               "imageBack": "shopify:\/\/shop_images\/2000x2000_Store_0004s_0000_Top.jpg",
               "productLink": "shopify:\/\/products\/scarf-ring"
             }
+          },
+          "711d9e8b-7291-49b5-8d57-d66f9b55d12e": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0003_Scarf-Top.png",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0003_Scarf-Top.png",
+              "productLink": ""
+            }
           }
         },
         "block_order": [
           "0bf4d76b-625c-4d67-8163-b2744f8850f5",
           "6989bf15-c249-4b06-bf33-1b8e8a567c06",
-          "5898b7c6-087e-40d9-bc5d-87ea6b790967"
+          "5898b7c6-087e-40d9-bc5d-87ea6b790967",
+          "711d9e8b-7291-49b5-8d57-d66f9b55d12e"
         ],
         "settings": {
         }
