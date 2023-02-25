@@ -321,6 +321,14 @@
               "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0006_Windbreaker.png",
               "productLink": "shopify:\/\/products\/fw23-pullover-windbreaker"
             }
+          },
+          "806b3b45-4159-4fa8-ab79-4de783b259be": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0005_Slit-Dress.png",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0005_Slit-Dress.png",
+              "productLink": "shopify:\/\/products\/slit-dress"
+            }
           }
         },
         "block_order": [
@@ -329,7 +337,8 @@
           "5898b7c6-087e-40d9-bc5d-87ea6b790967",
           "711d9e8b-7291-49b5-8d57-d66f9b55d12e",
           "ec31b54e-0fd0-4cf3-b520-975f9fbddaf9",
-          "bb5548a6-e9a8-4ac7-ac02-e71d2ade2d9c"
+          "bb5548a6-e9a8-4ac7-ac02-e71d2ade2d9c",
+          "806b3b45-4159-4fa8-ab79-4de783b259be"
         ],
         "settings": {
         }
