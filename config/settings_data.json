@@ -337,6 +337,14 @@
               "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0002_Scarf.png",
               "productLink": "shopify:\/\/products\/grasp-scarf"
             }
+          },
+          "a25978ff-6fd5-48e0-913b-ee97607c4452": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0001_Petal-Sleeve-Top.png",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0001_Petal-Sleeve-Top.png",
+              "productLink": "shopify:\/\/products\/black-petal-sleeve-top"
+            }
           }
         },
         "block_order": [
@@ -347,7 +355,8 @@
           "ec31b54e-0fd0-4cf3-b520-975f9fbddaf9",
           "bb5548a6-e9a8-4ac7-ac02-e71d2ade2d9c",
           "806b3b45-4159-4fa8-ab79-4de783b259be",
-          "57f2db20-c2ea-4c37-a61c-2442ef6eea69"
+          "57f2db20-c2ea-4c37-a61c-2442ef6eea69",
+          "a25978ff-6fd5-48e0-913b-ee97607c4452"
         ],
         "settings": {
         }
