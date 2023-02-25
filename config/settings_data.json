@@ -274,6 +274,14 @@
       "product-grid-collage": {
         "type": "product-grid-collage",
         "blocks": {
+          "bb5548a6-e9a8-4ac7-ac02-e71d2ade2d9c": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0006_Windbreaker.png",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0006_Windbreaker.png",
+              "productLink": "shopify:\/\/products\/fw23-pullover-windbreaker"
+            }
+          },
           "0bf4d76b-625c-4d67-8163-b2744f8850f5": {
             "type": "productLinks",
             "settings": {
@@ -312,14 +320,6 @@
               "imageFront": "shopify:\/\/shop_images\/1000x2000-Store_0003_Trouser-Front.png",
               "imageBack": "shopify:\/\/shop_images\/1000x2000-Store_0004_Trouser-Back.png",
               "productLink": "shopify:\/\/products\/tall-trouser"
-            }
-          },
-          "bb5548a6-e9a8-4ac7-ac02-e71d2ade2d9c": {
-            "type": "productLinks",
-            "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0006_Windbreaker.png",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0006_Windbreaker.png",
-              "productLink": "shopify:\/\/products\/fw23-pullover-windbreaker"
             }
           },
           "806b3b45-4159-4fa8-ab79-4de783b259be": {
@@ -372,12 +372,12 @@
           }
         },
         "block_order": [
+          "bb5548a6-e9a8-4ac7-ac02-e71d2ade2d9c",
           "0bf4d76b-625c-4d67-8163-b2744f8850f5",
           "6989bf15-c249-4b06-bf33-1b8e8a567c06",
           "5898b7c6-087e-40d9-bc5d-87ea6b790967",
           "711d9e8b-7291-49b5-8d57-d66f9b55d12e",
           "ec31b54e-0fd0-4cf3-b520-975f9fbddaf9",
-          "bb5548a6-e9a8-4ac7-ac02-e71d2ade2d9c",
           "806b3b45-4159-4fa8-ab79-4de783b259be",
           "57f2db20-c2ea-4c37-a61c-2442ef6eea69",
           "a25978ff-6fd5-48e0-913b-ee97607c4452",
