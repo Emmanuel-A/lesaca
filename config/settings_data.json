@@ -1059,12 +1059,6 @@
               "image": "shopify:\/\/shop_images\/High_Park_-_Diner.jpg"
             }
           },
-          "6c8f07c4-2fe5-4710-a339-1edd07dcd9d8": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/High_Park_Close.jpg"
-            }
-          },
           "113c0fd9-3271-4326-8a43-97ae56e8f80c": {
             "type": "image",
             "settings": {
@@ -1078,7 +1072,6 @@
           "6e8dd97a-a50e-4481-90e6-3cef72d2cd3b",
           "6c2386ad-63e2-4d79-9923-9fcad71e51cb",
           "ea936686-6786-4e4a-8458-72dbbb082979",
-          "6c8f07c4-2fe5-4710-a339-1edd07dcd9d8",
           "113c0fd9-3271-4326-8a43-97ae56e8f80c"
         ],
         "settings": {
