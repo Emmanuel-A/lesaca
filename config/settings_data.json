@@ -329,6 +329,14 @@
               "imageBack": "shopify:\/\/shop_images\/1000x2000-Store_0002_Slit-Dress.png",
               "productLink": "shopify:\/\/products\/slit-dress"
             }
+          },
+          "57f2db20-c2ea-4c37-a61c-2442ef6eea69": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0002_Scarf.png",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0002_Scarf.png",
+              "productLink": "shopify:\/\/products\/grasp-scarf"
+            }
           }
         },
         "block_order": [
@@ -338,7 +346,8 @@
           "711d9e8b-7291-49b5-8d57-d66f9b55d12e",
           "ec31b54e-0fd0-4cf3-b520-975f9fbddaf9",
           "bb5548a6-e9a8-4ac7-ac02-e71d2ade2d9c",
-          "806b3b45-4159-4fa8-ab79-4de783b259be"
+          "806b3b45-4159-4fa8-ab79-4de783b259be",
+          "57f2db20-c2ea-4c37-a61c-2442ef6eea69"
         ],
         "settings": {
         }
