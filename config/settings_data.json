@@ -303,7 +303,7 @@
             "settings": {
               "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0003_Scarf-Top.png",
               "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0003_Scarf-Top.png",
-              "productLink": ""
+              "productLink": "shopify:\/\/products\/silk-scarf-top"
             }
           }
         },
