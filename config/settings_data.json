@@ -365,7 +365,9 @@
           "52e72720-4e39-41ab-ba0c-9f0fb89a7a01": {
             "type": "productLinks",
             "settings": {
-              "productLink": ""
+              "imageFront": "shopify:\/\/shop_images\/1000x2000-Store_0000_Ruched-Dress.png",
+              "imageBack": "shopify:\/\/shop_images\/1000x2000-Store_0000_Ruched-Dress.png",
+              "productLink": "shopify:\/\/products\/ruched-slit-dress"
             }
           }
         },
