@@ -1020,6 +1020,48 @@
       "fw-2023-campaign-row-two": {
         "type": "fw-2023-campaign-row-two",
         "blocks": {
+          "17a01c95-3742-4beb-ab70-723f23d58390": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Mirror_Half.png"
+            }
+          },
+          "ee9cbab8-2826-4b96-a557-250ef78374e0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Standing_Table.png"
+            }
+          },
+          "66196cde-207b-4296-8f87-575dd798bfea": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Circle_Mirror.png"
+            }
+          },
+          "46f2f1e2-34d3-437b-928a-f87906a1dddd": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Open_Door.png"
+            }
+          },
+          "05aad6b3-ff2c-4aaa-b786-dbc067b74ac2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Over_Shoulder.png"
+            }
+          },
+          "6aad7c2e-2988-441a-ab3f-e8a6fd959e64": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Corner_Dress.png"
+            }
+          },
+          "6436e116-1ba8-42c7-90df-fd50917633f6": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Light_Above.png"
+            }
+          },
           "5720cdcc-adcd-469e-aae0-9b404a9adc7f": {
             "type": "image",
             "settings": {
@@ -1058,6 +1100,13 @@
           }
         },
         "block_order": [
+          "17a01c95-3742-4beb-ab70-723f23d58390",
+          "ee9cbab8-2826-4b96-a557-250ef78374e0",
+          "66196cde-207b-4296-8f87-575dd798bfea",
+          "46f2f1e2-34d3-437b-928a-f87906a1dddd",
+          "05aad6b3-ff2c-4aaa-b786-dbc067b74ac2",
+          "6aad7c2e-2988-441a-ab3f-e8a6fd959e64",
+          "6436e116-1ba8-42c7-90df-fd50917633f6",
           "5720cdcc-adcd-469e-aae0-9b404a9adc7f",
           "eb6039d2-66d3-4755-ad3b-22a9f79b35cd",
           "6e8dd97a-a50e-4481-90e6-3cef72d2cd3b",
