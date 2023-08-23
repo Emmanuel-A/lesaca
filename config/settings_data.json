@@ -1020,6 +1020,24 @@
       "fw-2023-campaign-row-two": {
         "type": "fw-2023-campaign-row-two",
         "blocks": {
+          "6ff201aa-b36f-46a0-b7d4-402169774346": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Post_Ad_Group_1.jpg"
+            }
+          },
+          "f136af14-f7bf-444c-b2cb-560738470611": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Post_Ad_Group_3.jpg"
+            }
+          },
+          "ecc91fb7-4312-4e06-a8d1-1b88d5fa71ef": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Post_Ad_Group_5.jpg"
+            }
+          },
           "17a01c95-3742-4beb-ab70-723f23d58390": {
             "type": "image",
             "settings": {
@@ -1100,6 +1118,9 @@
           }
         },
         "block_order": [
+          "6ff201aa-b36f-46a0-b7d4-402169774346",
+          "f136af14-f7bf-444c-b2cb-560738470611",
+          "ecc91fb7-4312-4e06-a8d1-1b88d5fa71ef",
           "17a01c95-3742-4beb-ab70-723f23d58390",
           "ee9cbab8-2826-4b96-a557-250ef78374e0",
           "66196cde-207b-4296-8f87-575dd798bfea",
