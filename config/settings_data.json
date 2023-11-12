@@ -285,13 +285,17 @@
           "ee3dcb68-24c6-4354-a57e-bb232681e05f": {
             "type": "productLinks",
             "settings": {
-              "productLink": ""
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0001s_0000_Flat.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0001s_0001_Detail.jpg",
+              "productLink": "shopify:\/\/products\/full-ruched-dress"
             }
           },
           "12f2fa5b-4874-4219-8c1c-2b2ea509abb2": {
             "type": "productLinks",
             "settings": {
-              "productLink": ""
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0002s_0000_Flat_8fb5570c-9053-4ae6-84a0-1c8ba59f8d93.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0002s_0001_Detail.jpg",
+              "productLink": "shopify:\/\/products\/easy-pullover"
             }
           },
           "22b7e963-2297-4985-aa39-1952365f4ebe": {
