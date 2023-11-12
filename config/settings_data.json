@@ -274,6 +274,14 @@
       "product-grid-collage": {
         "type": "product-grid-collage",
         "blocks": {
+          "99d2400b-c93a-40df-a461-3503ca25b6ab": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0004s_0000_Flat.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0004s_0002_Detail2.jpg",
+              "productLink": "shopify:\/\/products\/halved-blouse"
+            }
+          },
           "ee3dcb68-24c6-4354-a57e-bb232681e05f": {
             "type": "productLinks",
             "settings": {
@@ -298,14 +306,6 @@
               "productLink": "shopify:\/\/products\/faced-skirt"
             }
           },
-          "99d2400b-c93a-40df-a461-3503ca25b6ab": {
-            "type": "productLinks",
-            "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0004s_0000_Flat.jpg",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0004s_0002_Detail2.jpg",
-              "productLink": "shopify:\/\/products\/halved-blouse"
-            }
-          },
           "776cd5a5-d138-42fd-a1b0-62952d58521e": {
             "type": "productLinks",
             "settings": {
@@ -313,14 +313,59 @@
               "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0005s_0001_Back.jpg",
               "productLink": "shopify:\/\/products\/abbreviated-pin"
             }
+          },
+          "cd92ddbd-e6fc-437f-b685-8e37e7097441": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0000s_0000_Flat.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0000s_0001_Detail.jpg",
+              "productLink": "shopify:\/\/products\/anorak"
+            }
+          },
+          "91d14c3a-7821-483a-99c0-b1232cd57154": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0006s_0000_Flat.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0006s_0002_Detail2.jpg",
+              "productLink": "shopify:\/\/products\/mens-pleated-pants"
+            }
+          },
+          "bc610c6e-66e2-4476-a9d0-fafb03f296a6": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0007s_0000_Flat.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0007s_0001_Detail.jpg",
+              "productLink": "shopify:\/\/products\/small-pouch"
+            }
+          },
+          "4e54996c-335f-4aa4-8c6f-c4eef736d707": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0008s_0000_Flat.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0008s_0002_Detail2.jpg",
+              "productLink": "shopify:\/\/products\/split-top"
+            }
+          },
+          "afed5f04-dbfd-45d3-8646-9db8a6bbe864": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0009s_0000_Flat.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0009s_0002_Detail2.jpg",
+              "productLink": "shopify:\/\/products\/pleated-pant"
+            }
           }
         },
         "block_order": [
+          "99d2400b-c93a-40df-a461-3503ca25b6ab",
           "ee3dcb68-24c6-4354-a57e-bb232681e05f",
           "12f2fa5b-4874-4219-8c1c-2b2ea509abb2",
           "22b7e963-2297-4985-aa39-1952365f4ebe",
-          "99d2400b-c93a-40df-a461-3503ca25b6ab",
-          "776cd5a5-d138-42fd-a1b0-62952d58521e"
+          "776cd5a5-d138-42fd-a1b0-62952d58521e",
+          "cd92ddbd-e6fc-437f-b685-8e37e7097441",
+          "91d14c3a-7821-483a-99c0-b1232cd57154",
+          "bc610c6e-66e2-4476-a9d0-fafb03f296a6",
+          "4e54996c-335f-4aa4-8c6f-c4eef736d707",
+          "afed5f04-dbfd-45d3-8646-9db8a6bbe864"
         ],
         "settings": {
         }
