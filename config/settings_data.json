@@ -274,14 +274,6 @@
       "product-grid-collage": {
         "type": "product-grid-collage",
         "blocks": {
-          "26e82d6f-869d-433a-8728-f49aafb0961e": {
-            "type": "productLinks",
-            "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0000s_0000_Flat.jpg",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0000s_0001_Detail.jpg",
-              "productLink": "shopify:\/\/products\/anorak"
-            }
-          },
           "ee3dcb68-24c6-4354-a57e-bb232681e05f": {
             "type": "productLinks",
             "settings": {
@@ -324,7 +316,6 @@
           }
         },
         "block_order": [
-          "26e82d6f-869d-433a-8728-f49aafb0961e",
           "ee3dcb68-24c6-4354-a57e-bb232681e05f",
           "12f2fa5b-4874-4219-8c1c-2b2ea509abb2",
           "22b7e963-2297-4985-aa39-1952365f4ebe",
