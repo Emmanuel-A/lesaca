@@ -301,19 +301,25 @@
           "22b7e963-2297-4985-aa39-1952365f4ebe": {
             "type": "productLinks",
             "settings": {
-              "productLink": ""
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0003s_0000_Flat.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0003s_0002_Detail2.jpg",
+              "productLink": "shopify:\/\/products\/faced-skirt"
             }
           },
           "99d2400b-c93a-40df-a461-3503ca25b6ab": {
             "type": "productLinks",
             "settings": {
-              "productLink": ""
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0004s_0000_Flat.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0004s_0002_Detail2.jpg",
+              "productLink": "shopify:\/\/products\/halved-blouse"
             }
           },
           "776cd5a5-d138-42fd-a1b0-62952d58521e": {
             "type": "productLinks",
             "settings": {
-              "productLink": ""
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0005s_0000_Front.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0005s_0001_Back.jpg",
+              "productLink": "shopify:\/\/products\/abbreviated-pin"
             }
           }
         },
