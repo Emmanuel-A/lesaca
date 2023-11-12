@@ -274,107 +274,52 @@
       "product-grid-collage": {
         "type": "product-grid-collage",
         "blocks": {
-          "bb5548a6-e9a8-4ac7-ac02-e71d2ade2d9c": {
+          "26e82d6f-869d-433a-8728-f49aafb0961e": {
             "type": "productLinks",
             "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0006_Windbreaker.png",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0006_Windbreaker.png",
-              "productLink": "shopify:\/\/products\/fw23-pullover-windbreaker"
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0000s_0000_Flat.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0000s_0001_Detail.jpg",
+              "productLink": "shopify:\/\/products\/anorak"
             }
           },
-          "0bf4d76b-625c-4d67-8163-b2744f8850f5": {
+          "ee3dcb68-24c6-4354-a57e-bb232681e05f": {
             "type": "productLinks",
             "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000_Store_0002s_0000_Front.jpg",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000_Store_0002s_0001_Back.jpg",
-              "productLink": "shopify:\/\/products\/brooch"
+              "productLink": ""
             }
           },
-          "5898b7c6-087e-40d9-bc5d-87ea6b790967": {
+          "12f2fa5b-4874-4219-8c1c-2b2ea509abb2": {
             "type": "productLinks",
             "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000_Store_0004s_0000_Top.jpg",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000_Store_0004s_0000_Top.jpg",
-              "productLink": "shopify:\/\/products\/scarf-ring"
+              "productLink": ""
             }
           },
-          "711d9e8b-7291-49b5-8d57-d66f9b55d12e": {
+          "22b7e963-2297-4985-aa39-1952365f4ebe": {
             "type": "productLinks",
             "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0003_Scarf-Top.png",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0004_Scarf-Top-Back.png",
-              "productLink": "shopify:\/\/products\/silk-scarf-top"
+              "productLink": ""
             }
           },
-          "ec31b54e-0fd0-4cf3-b520-975f9fbddaf9": {
+          "99d2400b-c93a-40df-a461-3503ca25b6ab": {
             "type": "productLinks",
             "settings": {
-              "imageFront": "shopify:\/\/shop_images\/1000x2000-Store_0003_Trouser-Front.png",
-              "imageBack": "shopify:\/\/shop_images\/1000x2000-Store_0004_Trouser-Back.png",
-              "productLink": "shopify:\/\/products\/tall-trouser"
+              "productLink": ""
             }
           },
-          "806b3b45-4159-4fa8-ab79-4de783b259be": {
+          "776cd5a5-d138-42fd-a1b0-62952d58521e": {
             "type": "productLinks",
             "settings": {
-              "imageFront": "shopify:\/\/shop_images\/1000x2000-Store_0002_Slit-Dress.png",
-              "imageBack": "shopify:\/\/shop_images\/1000x2000-Store_0002_Slit-Dress.png",
-              "productLink": "shopify:\/\/products\/slit-dress"
-            }
-          },
-          "57f2db20-c2ea-4c37-a61c-2442ef6eea69": {
-            "type": "productLinks",
-            "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0002_Scarf.png",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0002_Scarf.png",
-              "productLink": "shopify:\/\/products\/grasp-scarf"
-            }
-          },
-          "a25978ff-6fd5-48e0-913b-ee97607c4452": {
-            "type": "productLinks",
-            "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0001_Petal-Sleeve-Top.png",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0001_Petal-Sleeve-Top.png",
-              "productLink": "shopify:\/\/products\/black-petal-sleeve-top"
-            }
-          },
-          "707d84a4-4763-42db-93ee-3365ffda7695": {
-            "type": "productLinks",
-            "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000-Store_0000_Coverall-Shirt.png",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000-Store_0000_Coverall-Shirt.png",
-              "productLink": "shopify:\/\/products\/wide-blouson"
-            }
-          },
-          "9b20e74d-3120-4e3d-a64f-4b539592adb3": {
-            "type": "productLinks",
-            "settings": {
-              "imageFront": "shopify:\/\/shop_images\/1000x2000-Store_0001_Skirt.png",
-              "imageBack": "shopify:\/\/shop_images\/1000x2000-Store_0001_Skirt.png",
-              "productLink": "shopify:\/\/products\/coverall-skirt"
-            }
-          },
-          "52e72720-4e39-41ab-ba0c-9f0fb89a7a01": {
-            "type": "productLinks",
-            "settings": {
-              "imageFront": "shopify:\/\/shop_images\/1000x2000-Store_0000_Ruched-Dress.png",
-              "imageBack": "shopify:\/\/shop_images\/1000x2000-Store_0000_Ruched-Dress.png",
-              "productLink": "shopify:\/\/products\/ruched-slit-dress"
+              "productLink": ""
             }
           }
         },
         "block_order": [
-          "bb5548a6-e9a8-4ac7-ac02-e71d2ade2d9c",
-          "0bf4d76b-625c-4d67-8163-b2744f8850f5",
-          "5898b7c6-087e-40d9-bc5d-87ea6b790967",
-          "711d9e8b-7291-49b5-8d57-d66f9b55d12e",
-          "ec31b54e-0fd0-4cf3-b520-975f9fbddaf9",
-          "806b3b45-4159-4fa8-ab79-4de783b259be",
-          "57f2db20-c2ea-4c37-a61c-2442ef6eea69",
-          "a25978ff-6fd5-48e0-913b-ee97607c4452",
-          "707d84a4-4763-42db-93ee-3365ffda7695",
-          "9b20e74d-3120-4e3d-a64f-4b539592adb3",
-          "52e72720-4e39-41ab-ba0c-9f0fb89a7a01"
+          "26e82d6f-869d-433a-8728-f49aafb0961e",
+          "ee3dcb68-24c6-4354-a57e-bb232681e05f",
+          "12f2fa5b-4874-4219-8c1c-2b2ea509abb2",
+          "22b7e963-2297-4985-aa39-1952365f4ebe",
+          "99d2400b-c93a-40df-a461-3503ca25b6ab",
+          "776cd5a5-d138-42fd-a1b0-62952d58521e"
         ],
         "settings": {
         }
