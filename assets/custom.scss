@@ -2263,6 +2263,9 @@ body {
                                             margin: 0;
                                             width: 50%;
                                         }
+                                        label {
+                                            pointer-events: none;                                          
+                                        }
                                         input.cart__product-qty {
                                             appearance: none;
                                             border: 0;
