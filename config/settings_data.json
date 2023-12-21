@@ -282,6 +282,14 @@
               "productLink": "shopify:\/\/products\/halved-blouse"
             }
           },
+          "22b7e963-2297-4985-aa39-1952365f4ebe": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0003s_0002_Detail2.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0003s_0000_Flat.jpg",
+              "productLink": "shopify:\/\/products\/faced-skirt"
+            }
+          },
           "ee3dcb68-24c6-4354-a57e-bb232681e05f": {
             "type": "productLinks",
             "settings": {
@@ -290,20 +298,20 @@
               "productLink": "shopify:\/\/products\/full-ruched-dress"
             }
           },
+          "20e535cb-080e-4b4e-96b7-1519f5369f3e": {
+            "type": "productLinks",
+            "settings": {
+              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0001_Detail.jpg",
+              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0000_Flat.jpg",
+              "productLink": "shopify:\/\/products\/small-black-pouch"
+            }
+          },
           "12f2fa5b-4874-4219-8c1c-2b2ea509abb2": {
             "type": "productLinks",
             "settings": {
               "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0002s_0001_Detail.jpg",
               "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0002s_0000_Flat_8fb5570c-9053-4ae6-84a0-1c8ba59f8d93.jpg",
               "productLink": "shopify:\/\/products\/easy-pullover"
-            }
-          },
-          "22b7e963-2297-4985-aa39-1952365f4ebe": {
-            "type": "productLinks",
-            "settings": {
-              "imageFront": "shopify:\/\/shop_images\/2000x2000Site_0003s_0002_Detail2.jpg",
-              "imageBack": "shopify:\/\/shop_images\/2000x2000Site_0003s_0000_Flat.jpg",
-              "productLink": "shopify:\/\/products\/faced-skirt"
             }
           },
           "776cd5a5-d138-42fd-a1b0-62952d58521e": {
@@ -357,9 +365,10 @@
         },
         "block_order": [
           "99d2400b-c93a-40df-a461-3503ca25b6ab",
-          "ee3dcb68-24c6-4354-a57e-bb232681e05f",
-          "12f2fa5b-4874-4219-8c1c-2b2ea509abb2",
           "22b7e963-2297-4985-aa39-1952365f4ebe",
+          "ee3dcb68-24c6-4354-a57e-bb232681e05f",
+          "20e535cb-080e-4b4e-96b7-1519f5369f3e",
+          "12f2fa5b-4874-4219-8c1c-2b2ea509abb2",
           "776cd5a5-d138-42fd-a1b0-62952d58521e",
           "cd92ddbd-e6fc-437f-b685-8e37e7097441",
           "91d14c3a-7821-483a-99c0-b1232cd57154",
