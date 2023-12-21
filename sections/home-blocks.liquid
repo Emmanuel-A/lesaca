@@ -9,12 +9,16 @@
         </div>
       {% endif %}
       {% if block.type == 'video_block' %}
-        <a href="{{ block.settings.page_link }}">
+        {% if block.settings.page_link != blank %}
+          <a href="{{ block.settings.page_link }}">
+        {% endif %}
           <span style="display: block; color: {{ block.settings.videoHeadingColor }}; font-size: 32px;">{{ block.settings.videoHeading }}</span>
           <video class="product_video" width="100%" height="auto" autoplay="" playsinline="" loop="" muted="">
               <source src="{{ block.settings.video_link }}" type="video/mp4"> 
           </video> 
-        </a>
+        {% if block.settings.page_link != blank %}
+          </a>
+        {% endif %}
       {% endif %}
     {% endfor %}
   </div>
