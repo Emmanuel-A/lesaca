@@ -674,6 +674,9 @@ body {
                                 column-count: 2; 
                                 margin: 0;
                             }
+                            @media screen and (max-width: 767px) {
+                                padding: 0;
+                            }
                             .grid_product {
                                 a {
                                     position: relative;
