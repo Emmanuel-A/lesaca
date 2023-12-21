@@ -1613,14 +1613,16 @@ body {
                                 video {
                                     object-fit: cover;
                                     height: 100%;
-                                    display: none;
                                     @media screen and (max-width: 1440px) {
                                         width: 524px;
                                     }
-                                    @media screen and (max-width: 767px) {
-                                      display: block;
-                                    }
                                 }
+                            }
+                            video {
+                              display: none;
+                              @media screen and (max-width: 767px) {
+                                  display: block;
+                              }
                             }
                         }
                     }
