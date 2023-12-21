@@ -1019,12 +1019,6 @@
               "link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ff6c76fbf29147109dd479afeebbe5f8.mp4"
             }
           },
-          "6fa6171d-4d70-4269-8947-3e184b309111": {
-            "type": "video",
-            "settings": {
-              "link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/55aaaea364f5489cb120ffc8159d009f.mp4"
-            }
-          },
           "064c7c7b-f4ea-4626-98a9-41f803e2a18d": {
             "type": "image",
             "settings": {
@@ -1076,7 +1070,6 @@
         },
         "block_order": [
           "b185e59c-378b-4a5e-a5d1-a9d4e41ea7ba",
-          "6fa6171d-4d70-4269-8947-3e184b309111",
           "064c7c7b-f4ea-4626-98a9-41f803e2a18d",
           "518f2914-5d67-4f34-9e8c-5a02f763a40d",
           "ffaa5515-5997-44ec-bc66-d55e70bc2e47",
@@ -1085,6 +1078,262 @@
           "f51760bf-b1c7-46cb-8087-8cb1d9c4b461",
           "8a980668-1552-4f21-87ea-11f4bf385a5c",
           "ed8658dd-6f4b-4a8a-b441-97b6cf55b768"
+        ],
+        "settings": {
+        }
+      },
+      "sf-2023-campaign-row-one": {
+        "type": "sf-2023-campaign-row-one",
+        "blocks": {
+          "b6443914-dff7-4007-8d23-014108f25694": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0000_1.jpg"
+            }
+          },
+          "542bcd6b-7dd8-4767-9dbe-4b4da706735e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0001_2.jpg"
+            }
+          },
+          "2dfdcdb0-72dc-4c51-b8c2-cf89533ff5ba": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0003_4.jpg"
+            }
+          },
+          "a3092988-aa1e-45bd-b546-a0216d578a9d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0004_5.jpg"
+            }
+          },
+          "6f6dad9e-0726-448a-a4a1-af412a116024": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0005_6.jpg"
+            }
+          },
+          "35ebc39f-1b5e-474f-9ceb-8655385e2f3e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0007_8.jpg"
+            }
+          },
+          "4694b722-16c1-4dd2-9849-a1106dec2061": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0009_10.jpg"
+            }
+          },
+          "22e76bea-9e69-47e7-8b7f-fa26932190dd": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0010_11.jpg"
+            }
+          },
+          "ece35c7b-1c35-433d-98fe-281701b1c17c": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0011_12.jpg"
+            }
+          },
+          "13d37205-9706-4a65-9779-5b81ebf5f561": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0008_9.jpg"
+            }
+          },
+          "80c29a25-7707-488e-86ab-ca748851247f": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0012_13.jpg"
+            }
+          },
+          "7fe5f2c5-1901-4195-9cff-de40eed38ec4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0013_14.jpg"
+            }
+          },
+          "4cbfaa1a-70ec-40e6-89e1-d8628e71ef68": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0014_15.jpg"
+            }
+          },
+          "805e133f-d5db-45ac-8b5b-630b2f078937": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0015_16.jpg"
+            }
+          },
+          "0548dcc4-3255-4c14-9f1e-569bae46ddd0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Campaign_Shopify_0000s_0016_17.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "b6443914-dff7-4007-8d23-014108f25694",
+          "542bcd6b-7dd8-4767-9dbe-4b4da706735e",
+          "2dfdcdb0-72dc-4c51-b8c2-cf89533ff5ba",
+          "a3092988-aa1e-45bd-b546-a0216d578a9d",
+          "6f6dad9e-0726-448a-a4a1-af412a116024",
+          "35ebc39f-1b5e-474f-9ceb-8655385e2f3e",
+          "4694b722-16c1-4dd2-9849-a1106dec2061",
+          "22e76bea-9e69-47e7-8b7f-fa26932190dd",
+          "ece35c7b-1c35-433d-98fe-281701b1c17c",
+          "13d37205-9706-4a65-9779-5b81ebf5f561",
+          "80c29a25-7707-488e-86ab-ca748851247f",
+          "7fe5f2c5-1901-4195-9cff-de40eed38ec4",
+          "4cbfaa1a-70ec-40e6-89e1-d8628e71ef68",
+          "805e133f-d5db-45ac-8b5b-630b2f078937",
+          "0548dcc4-3255-4c14-9f1e-569bae46ddd0"
+        ],
+        "settings": {
+        }
+      },
+      "sf-2023-campaign-row-two": {
+        "type": "sf-2023-campaign-row-two",
+        "blocks": {
+          "05ae7475-c416-436a-ac36-707b9497003b": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Post_Ad_Group_1.jpg"
+            }
+          },
+          "56f91028-a1d4-4314-935f-9f5aa3444282": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Post_Ad_Group_2.jpg"
+            }
+          },
+          "c7d84d53-e5a5-4c00-92a0-7a430bbc620c": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Post_Ad_Group_3.jpg"
+            }
+          },
+          "06bb9eee-6c55-49e8-b317-538694e73df2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Post_Ad_Group_4.jpg"
+            }
+          },
+          "f714bed8-f6af-4032-97e6-f31f129d2a9e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Post_Ad_Group_5.jpg"
+            }
+          },
+          "a28859db-51a1-453a-ae2e-3cbc44fcc469": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2000x2000-Site_0001_Petal-Sleeve-Black.png"
+            }
+          },
+          "41446696-4015-4faa-8266-b6b7b90c7511": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Standing_Table.png"
+            }
+          },
+          "b6597f36-c045-4006-ad01-2b6712f367c3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Open_Door.png"
+            }
+          },
+          "25caf0d2-73d9-46e3-a222-d0269f37b8d9": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Circle_Mirror.png"
+            }
+          },
+          "ff8ed7dd-6a7c-4076-9990-3339858b4bb3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Over_Shoulder.png"
+            }
+          },
+          "5997d30a-816b-45f1-8d74-1e6b141cc5b7": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Corner_Dress.png"
+            }
+          },
+          "0372d9c9-ded7-4441-8d84-cba9d9f92784": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2000x2000-Site_0001_Blouse.png"
+            }
+          },
+          "9c6dd4af-e64e-4538-a091-f4c1d841d1ba": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FW23_Catalog_Light_Above.png"
+            }
+          },
+          "be6a24b3-e765-4eee-87eb-c4044a1f409a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/High_Park_-_Portrait.jpg"
+            }
+          },
+          "33c5e42b-f22e-45b7-87f6-caefb297292d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/High_Park_-_Bench.jpg"
+            }
+          },
+          "f51e1ad4-2732-4aaa-9af5-0b418fe0d4b1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/High_Park_-_Water.jpg"
+            }
+          },
+          "78deda04-9ce0-4113-8a17-cb64a873cf25": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/High_Park_-_Diner.jpg"
+            }
+          },
+          "2f0b6ef0-c09c-47b9-8d3f-2c55da068002": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/High_Park_Close.jpg"
+            }
+          },
+          "0b2e4701-5ada-40b4-9177-f7aab7e460bf": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/High_Park_-_Blur.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "05ae7475-c416-436a-ac36-707b9497003b",
+          "56f91028-a1d4-4314-935f-9f5aa3444282",
+          "c7d84d53-e5a5-4c00-92a0-7a430bbc620c",
+          "06bb9eee-6c55-49e8-b317-538694e73df2",
+          "f714bed8-f6af-4032-97e6-f31f129d2a9e",
+          "a28859db-51a1-453a-ae2e-3cbc44fcc469",
+          "41446696-4015-4faa-8266-b6b7b90c7511",
+          "b6597f36-c045-4006-ad01-2b6712f367c3",
+          "25caf0d2-73d9-46e3-a222-d0269f37b8d9",
+          "ff8ed7dd-6a7c-4076-9990-3339858b4bb3",
+          "5997d30a-816b-45f1-8d74-1e6b141cc5b7",
+          "0372d9c9-ded7-4441-8d84-cba9d9f92784",
+          "9c6dd4af-e64e-4538-a091-f4c1d841d1ba",
+          "be6a24b3-e765-4eee-87eb-c4044a1f409a",
+          "33c5e42b-f22e-45b7-87f6-caefb297292d",
+          "f51e1ad4-2732-4aaa-9af5-0b418fe0d4b1",
+          "78deda04-9ce0-4113-8a17-cb64a873cf25",
+          "2f0b6ef0-c09c-47b9-8d3f-2c55da068002",
+          "0b2e4701-5ada-40b4-9177-f7aab7e460bf"
         ],
         "settings": {
         }
