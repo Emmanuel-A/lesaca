@@ -894,6 +894,44 @@
         ],
         "settings": {
         }
+      },
+      "sf-2024-campaign-row-one": {
+        "type": "sf-2024-campaign-row-one",
+        "blocks": {
+          "0b38288d-020b-4547-bc2c-ee32c7d95374": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_01.png"
+            }
+          },
+          "3b3ece65-7802-4715-9380-b489846f13e2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_02.png"
+            }
+          }
+        },
+        "block_order": [
+          "0b38288d-020b-4547-bc2c-ee32c7d95374",
+          "3b3ece65-7802-4715-9380-b489846f13e2"
+        ],
+        "settings": {
+        }
+      },
+      "sf-2024-campaign-row-two": {
+        "type": "sf-2024-campaign-row-two",
+        "blocks": {
+          "be6c5fc6-979b-4e00-a6de-c7aea98af5a5": {
+            "type": "image",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "be6c5fc6-979b-4e00-a6de-c7aea98af5a5"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [
