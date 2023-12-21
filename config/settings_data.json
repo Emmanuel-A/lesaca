@@ -1013,12 +1013,6 @@
       "sf-2024-campaign-row-two": {
         "type": "sf-2024-campaign-row-two",
         "blocks": {
-          "b2eaa6f6-cdd8-4ca0-a985-9599d3d81924": {
-            "type": "video",
-            "settings": {
-              "link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/55aaaea364f5489cb120ffc8159d009f.mp4"
-            }
-          },
           "b185e59c-378b-4a5e-a5d1-a9d4e41ea7ba": {
             "type": "video",
             "settings": {
@@ -1041,6 +1035,12 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_logostudy5.png"
+            }
+          },
+          "b2eaa6f6-cdd8-4ca0-a985-9599d3d81924": {
+            "type": "video",
+            "settings": {
+              "link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/55aaaea364f5489cb120ffc8159d009f.mp4"
             }
           },
           "9d1dfc3f-c182-4305-b9fd-c639bcb70636": {
@@ -1075,11 +1075,11 @@
           }
         },
         "block_order": [
-          "b2eaa6f6-cdd8-4ca0-a985-9599d3d81924",
           "b185e59c-378b-4a5e-a5d1-a9d4e41ea7ba",
           "064c7c7b-f4ea-4626-98a9-41f803e2a18d",
           "518f2914-5d67-4f34-9e8c-5a02f763a40d",
           "ffaa5515-5997-44ec-bc66-d55e70bc2e47",
+          "b2eaa6f6-cdd8-4ca0-a985-9599d3d81924",
           "9d1dfc3f-c182-4305-b9fd-c639bcb70636",
           "c5759dba-10df-433d-8315-f0159f3fc16a",
           "f51760bf-b1c7-46cb-8087-8cb1d9c4b461",
