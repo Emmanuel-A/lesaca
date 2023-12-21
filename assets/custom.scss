@@ -669,15 +669,12 @@ body {
                             column-count: 3;
                             column-gap: 1em;
                             padding: 0 0 100px 0;
-                            background-color: #e9e9e9;
+                            /* background-color: #e9e9e9; */
                             @media screen and (max-width: 990px) {
                                 column-count: 2; 
                                 margin: 0;
                             }
                             .grid_product {
-                                &:first-child {
-                                   margin-left: 15%;
-                                }
                                 a {
                                     position: relative;
                                     width: 100%;
