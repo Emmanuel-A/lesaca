@@ -436,6 +436,13 @@
       "projects-sidebar": {
         "type": "projects-sidebar",
         "blocks": {
+          "408f855b-e5b0-4397-809b-50d4f7689a27": {
+            "type": "sidebarLinks",
+            "settings": {
+              "pageLink": "shopify:\/\/pages\/fw24-campaign",
+              "page": "2024 Spring Fall"
+            }
+          },
           "7b7ef08e-55cc-415d-9629-9aad9bcb722b": {
             "type": "sidebarLinks",
             "settings": {
@@ -447,7 +454,7 @@
             "type": "sidebarLinks",
             "settings": {
               "pageLink": "shopify:\/\/pages\/2022-collection",
-              "page": "2021 Spring Fall"
+              "page": "2022 Spring Fall"
             }
           },
           "f45b3a35-ef02-4c3a-a3d9-474f3ef80e1e": {
@@ -459,6 +466,7 @@
           }
         },
         "block_order": [
+          "408f855b-e5b0-4397-809b-50d4f7689a27",
           "7b7ef08e-55cc-415d-9629-9aad9bcb722b",
           "51db50f5-c2e0-43eb-b54f-faaf80076013",
           "f45b3a35-ef02-4c3a-a3d9-474f3ef80e1e"
