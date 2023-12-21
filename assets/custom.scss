@@ -1567,6 +1567,12 @@ body {
                                     }
                                 }
                             }
+                            video {
+                                display: none;
+                                @media screen and (max-width: 767px) {
+                                    display: block;
+                                }
+                            }
                         }
                     }
                     #shopify-section-sf-2024-campaign-row-two {
