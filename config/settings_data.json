@@ -991,6 +991,21 @@
               "link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ff6c76fbf29147109dd479afeebbe5f8.mp4"
             }
           },
+          "064c7c7b-f4ea-4626-98a9-41f803e2a18d": {
+            "type": "image",
+            "settings": {
+            }
+          },
+          "518f2914-5d67-4f34-9e8c-5a02f763a40d": {
+            "type": "image",
+            "settings": {
+            }
+          },
+          "ffaa5515-5997-44ec-bc66-d55e70bc2e47": {
+            "type": "image",
+            "settings": {
+            }
+          },
           "be6c5fc6-979b-4e00-a6de-c7aea98af5a5": {
             "type": "image",
             "settings": {
@@ -1024,6 +1039,9 @@
         },
         "block_order": [
           "b185e59c-378b-4a5e-a5d1-a9d4e41ea7ba",
+          "064c7c7b-f4ea-4626-98a9-41f803e2a18d",
+          "518f2914-5d67-4f34-9e8c-5a02f763a40d",
+          "ffaa5515-5997-44ec-bc66-d55e70bc2e47",
           "be6c5fc6-979b-4e00-a6de-c7aea98af5a5",
           "1d678899-1fad-4485-b3f0-eb828ab7774e",
           "7eecedb0-69db-4bac-a897-7d392e7ee691",
