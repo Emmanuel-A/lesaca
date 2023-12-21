@@ -994,16 +994,43 @@
           "064c7c7b-f4ea-4626-98a9-41f803e2a18d": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_logostudy3.png"
             }
           },
           "518f2914-5d67-4f34-9e8c-5a02f763a40d": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_logostudy4.png"
             }
           },
           "ffaa5515-5997-44ec-bc66-d55e70bc2e47": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_logostudy5.png"
+            }
+          },
+          "9d1dfc3f-c182-4305-b9fd-c639bcb70636": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_logostudy6.png"
+            }
+          },
+          "c5759dba-10df-433d-8315-f0159f3fc16a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_logostudy7.png"
+            }
+          },
+          "f51760bf-b1c7-46cb-8087-8cb1d9c4b461": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_water2.png"
+            }
+          },
+          "8a980668-1552-4f21-87ea-11f4bf385a5c": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_water1.png"
             }
           },
           "be6c5fc6-979b-4e00-a6de-c7aea98af5a5": {
@@ -1042,6 +1069,10 @@
           "064c7c7b-f4ea-4626-98a9-41f803e2a18d",
           "518f2914-5d67-4f34-9e8c-5a02f763a40d",
           "ffaa5515-5997-44ec-bc66-d55e70bc2e47",
+          "9d1dfc3f-c182-4305-b9fd-c639bcb70636",
+          "c5759dba-10df-433d-8315-f0159f3fc16a",
+          "f51760bf-b1c7-46cb-8087-8cb1d9c4b461",
+          "8a980668-1552-4f21-87ea-11f4bf385a5c",
           "be6c5fc6-979b-4e00-a6de-c7aea98af5a5",
           "1d678899-1fad-4485-b3f0-eb828ab7774e",
           "7eecedb0-69db-4bac-a897-7d392e7ee691",
