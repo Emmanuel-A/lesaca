@@ -9,7 +9,7 @@
         </div>
       {% endif %}
       {% if block.type == 'video_block' %}
-        <a href="javascript:void(0);">
+        <a href="{{ block.settings.page_link }}">
           <span style="display: block; color: {{ block.settings.videoHeadingColor }}; font-size: 32px;">{{ block.settings.videoHeading }}</span>
           <video class="product_video" width="100%" height="auto" autoplay="" playsinline="" loop="" muted="">
               <source src="{{ block.settings.video_link }}" type="video/mp4"> 
