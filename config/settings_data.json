@@ -909,11 +909,74 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_02.png"
             }
+          },
+          "84c39a22-2278-439b-8967-8be3078970cc": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_03.png"
+            }
+          },
+          "d22d41cd-f40d-485e-a3ec-9325cdfac92b": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_04.png"
+            }
+          },
+          "af7d5664-2762-4992-aa23-c95e27aa54aa": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_05.png"
+            }
+          },
+          "0c6311b0-2854-40b5-9986-24498e20968f": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_06.png"
+            }
+          },
+          "389605da-c1ce-4de2-b8ea-1543d4bb2ed4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_07.png"
+            }
+          },
+          "09b766b5-b605-4c62-b683-d2dfd13c3146": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_08.png"
+            }
+          },
+          "8d4481ca-7e5e-4b6a-9663-a1975c955600": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_09.png"
+            }
+          },
+          "ddf8d06c-5a66-40b4-b1d5-6aa0c20fd653": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_11.png"
+            }
+          },
+          "b566cafd-eb75-4fdf-9294-b50cf5fd4c8b": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-lookbook_12.png"
+            }
           }
         },
         "block_order": [
           "0b38288d-020b-4547-bc2c-ee32c7d95374",
-          "3b3ece65-7802-4715-9380-b489846f13e2"
+          "3b3ece65-7802-4715-9380-b489846f13e2",
+          "84c39a22-2278-439b-8967-8be3078970cc",
+          "d22d41cd-f40d-485e-a3ec-9325cdfac92b",
+          "af7d5664-2762-4992-aa23-c95e27aa54aa",
+          "0c6311b0-2854-40b5-9986-24498e20968f",
+          "389605da-c1ce-4de2-b8ea-1543d4bb2ed4",
+          "09b766b5-b605-4c62-b683-d2dfd13c3146",
+          "8d4481ca-7e5e-4b6a-9663-a1975c955600",
+          "ddf8d06c-5a66-40b4-b1d5-6aa0c20fd653",
+          "b566cafd-eb75-4fdf-9294-b50cf5fd4c8b"
         ],
         "settings": {
         }
@@ -924,11 +987,40 @@
           "be6c5fc6-979b-4e00-a6de-c7aea98af5a5": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_storefront1.png"
+            }
+          },
+          "1d678899-1fad-4485-b3f0-eb828ab7774e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_storefront2.png"
+            }
+          },
+          "7eecedb0-69db-4bac-a897-7d392e7ee691": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_doubleexp.png"
+            }
+          },
+          "a7fcdc0b-9388-49e6-a678-17d69b559cd9": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_lerocka.png"
+            }
+          },
+          "ed8658dd-6f4b-4a8a-b441-97b6cf55b768": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lesaca-sf24-editorial_leaflet.png"
             }
           }
         },
         "block_order": [
-          "be6c5fc6-979b-4e00-a6de-c7aea98af5a5"
+          "be6c5fc6-979b-4e00-a6de-c7aea98af5a5",
+          "1d678899-1fad-4485-b3f0-eb828ab7774e",
+          "7eecedb0-69db-4bac-a897-7d392e7ee691",
+          "a7fcdc0b-9388-49e6-a678-17d69b559cd9",
+          "ed8658dd-6f4b-4a8a-b441-97b6cf55b768"
         ],
         "settings": {
         }
