@@ -1571,6 +1571,7 @@ body {
                                 display: none;
                                 @media screen and (max-width: 767px) {
                                     display: block;
+                                    margin-bottom: 4px;
                                 }
                             }
                         }
@@ -1625,10 +1626,11 @@ body {
                                 }
                             }
                             video {
-                              display: none;
-                              @media screen and (max-width: 767px) {
-                                  display: block;
-                              }
+                                display: none;
+                                @media screen and (max-width: 767px) {
+                                    display: block;
+                                    margin-bottom: 4px;
+                                }
                             }
                         }
                     }
