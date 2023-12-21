@@ -440,21 +440,21 @@
             "type": "sidebarLinks",
             "settings": {
               "pageLink": "shopify:\/\/pages\/2023-collection",
-              "page": "2023 Fall Winter"
+              "page": "2023 Spring Fall"
             }
           },
           "51db50f5-c2e0-43eb-b54f-faaf80076013": {
             "type": "sidebarLinks",
             "settings": {
               "pageLink": "shopify:\/\/pages\/2022-collection",
-              "page": "2021 Fall Winter"
+              "page": "2021 Spring Fall"
             }
           },
           "f45b3a35-ef02-4c3a-a3d9-474f3ef80e1e": {
             "type": "sidebarLinks",
             "settings": {
               "pageLink": "shopify:\/\/pages\/2021-collection",
-              "page": "2021 Spring Summer"
+              "page": "2021 Spring Fall"
             }
           }
         },
