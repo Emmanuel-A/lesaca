@@ -1015,6 +1015,7 @@
         "blocks": {
           "b185e59c-378b-4a5e-a5d1-a9d4e41ea7ba": {
             "type": "video",
+            "disabled": true,
             "settings": {
               "link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ff6c76fbf29147109dd479afeebbe5f8.mp4"
             }
