@@ -1544,12 +1544,82 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/aw21campaign_0005_Flash_3.jpg"
             }
+          },
+          "366d98b4-2c13-4689-bba2-05a46df3d87a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0012_Blue_Dress_2.jpg"
+            }
+          },
+          "398e6401-7529-45db-8779-4d4f5b2cc35c": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0011_Blue_Dress_Landscape.jpg"
+            }
+          },
+          "52fba36a-b3f4-47c9-9e31-36404f426fe0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0009_Chair_2.jpg"
+            }
+          },
+          "8f0ea0ea-52c7-4fa3-af3f-23cf7290aa33": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0008_Chair_3.jpg"
+            }
+          },
+          "f938bb04-951c-4ba0-8e0a-8c8292855eaa": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0010_Chair_1.jpg"
+            }
+          },
+          "6c8c0579-d1eb-4de5-b126-770ea410de44": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0001_Outside_Rust_1.jpg"
+            }
+          },
+          "4d859627-a919-45a4-b71a-0e70a86cbba4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0004_Outside_1.jpg"
+            }
+          },
+          "5b2d6830-4085-4fa4-a2d4-5008c82a7fd3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0000_Outside_Rust_2.jpg"
+            }
+          },
+          "6f88b029-40be-4138-8eae-3d3a6e3df70c": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0003_Outside_3.jpg"
+            }
+          },
+          "e5a9e1b8-e8fc-459a-bc28-a699b5c16d5b": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0002_Outside_Landscape.jpg"
+            }
           }
         },
         "block_order": [
           "e18a7239-ae85-4443-bf11-4937252ea76c",
           "79eedea6-e6a3-480d-b2ce-6acf85d924f6",
-          "ba7efd20-ef97-4403-ba29-7ad42c052ae6"
+          "ba7efd20-ef97-4403-ba29-7ad42c052ae6",
+          "366d98b4-2c13-4689-bba2-05a46df3d87a",
+          "398e6401-7529-45db-8779-4d4f5b2cc35c",
+          "52fba36a-b3f4-47c9-9e31-36404f426fe0",
+          "8f0ea0ea-52c7-4fa3-af3f-23cf7290aa33",
+          "f938bb04-951c-4ba0-8e0a-8c8292855eaa",
+          "6c8c0579-d1eb-4de5-b126-770ea410de44",
+          "4d859627-a919-45a4-b71a-0e70a86cbba4",
+          "5b2d6830-4085-4fa4-a2d4-5008c82a7fd3",
+          "6f88b029-40be-4138-8eae-3d3a6e3df70c",
+          "e5a9e1b8-e8fc-459a-bc28-a699b5c16d5b"
         ],
         "settings": {
         }
