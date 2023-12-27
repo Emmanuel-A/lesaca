@@ -1526,6 +1526,31 @@
       },
       "sf-2022-campaign-row-two": {
         "type": "sf-2022-campaign-row-two",
+        "blocks": {
+          "e18a7239-ae85-4443-bf11-4937252ea76c": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0006_Flash_2.jpg"
+            }
+          },
+          "79eedea6-e6a3-480d-b2ce-6acf85d924f6": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0007_Flash_1.jpg"
+            }
+          },
+          "ba7efd20-ef97-4403-ba29-7ad42c052ae6": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/aw21campaign_0005_Flash_3.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "e18a7239-ae85-4443-bf11-4937252ea76c",
+          "79eedea6-e6a3-480d-b2ce-6acf85d924f6",
+          "ba7efd20-ef97-4403-ba29-7ad42c052ae6"
+        ],
         "settings": {
         }
       }
